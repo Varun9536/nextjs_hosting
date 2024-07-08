@@ -13,6 +13,11 @@ export default function page() {
 
     <Link href={"/"} >go to home</Link>
 
+<div>
+
+</div>
+    <Link href={"address/village"} >go to village</Link>
+
 
     </>
   )
